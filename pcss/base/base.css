@@ -1,0 +1,13 @@
+/* global styles */
+
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    background-color: #c1d0d0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
